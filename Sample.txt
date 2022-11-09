@@ -1,2 +1,2 @@
 This is a sample text file.
-Another line added.
+Another line added to have merge conflicts.
